@@ -1,20 +1,42 @@
 <?xml version="1.0" ?>
 <LOG_ROOT>
 	<PROJECT NAME="projetoSD1">
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare14:inst33|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_5jg.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare3:inst8|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_hcj.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare6:inst23|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_c9j.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter2:inst28|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bi.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare10:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_c9j.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter1:inst4|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_dmh.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_mux2:inst32|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_03e.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare11:inst7|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_hcj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub11:inst90|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_umh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter7:inst37|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub5:inst61|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_umh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub8:inst66|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_iqh.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare12:inst19|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_5jg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare13:inst18|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_5jg.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare4:inst9|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_hcj.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare5:inst22|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_hcj.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare7:inst24|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_ccj.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare8:inst11|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_5jg.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_constant1:inst31|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_7p6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter28:inst62|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_15i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter29:inst87|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_15i.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub12:inst91|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_umh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub2:inst56|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_iqh.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter3:inst|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4lj.tdf"/>
 		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter4:inst25|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub9:inst67|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_umh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare15:inst36|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_5jg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter2:inst28|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub13:inst92|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_umh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter1:inst4|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_dmh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub0:inst53|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_iqh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub6:inst64|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_iqh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare11:inst7|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_hcj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare5:inst22|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_hcj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter5:inst27|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_counter6:inst35|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_4bi.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub14:inst93|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_umh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare8:inst11|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_5jg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_constant3:inst86|lpm_constant:LPM_CONSTANT_component" CBX_FILE_NAME="lpm_constant_3e6.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_mult2:inst69|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_lqp.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub10:inst89|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_umh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_add_sub7:inst65|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_umh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_compare10:inst3|lpm_compare:LPM_COMPARE_component" CBX_FILE_NAME="cmpr_c9j.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_mult3:inst88|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_lqp.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|finalSDAtualizado1|lpm_mux4:inst70|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_63e.tdf"/>
 	</PROJECT>
 </LOG_ROOT>
